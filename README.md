@@ -1,11 +1,5 @@
 # Nike Store VR Shopping Experience
 
-Demo Link - https://www.youtube.com/watch?v=80bFCaD2Qvc&ab_channel=AtifShaik
-
-![Demo](VR_1.png)
-![Demo](VR_2.png)
-![Demo](VR_3.png)
-
 ## Overview
 
 This project is a Virtual Reality (VR) shopping experience in which users can explore a virtual Nike Store, add products to their shopping bag, and complete the checkout process, all within Unreal Engine. It offers an immersive and interactive way for users to shop for Nike products in a virtual environment.
@@ -21,6 +15,13 @@ This project is a Virtual Reality (VR) shopping experience in which users can ex
 - **Checkout**: Complete the shopping experience by going through the checkout process.
 
 - **VR Compatibility**: Designed to work with popular VR headsets for a truly immersive shopping experience.
+
+Demo Link - https://www.youtube.com/watch?v=80bFCaD2Qvc&ab_channel=AtifShaik
+
+![Demo](VR_1.png)
+![Demo](VR_2.png)
+![Demo](VR_3.png)
+
 
 ## Getting Started
 
