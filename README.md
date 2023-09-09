@@ -61,5 +61,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Unreal Engine: Used for creating an immersive VR environment.
 Nike: Inspiration and reference for the virtual store.
 
+### Contributors
+1. Haja Mohideen - https://www.linkedin.com/in/haja-mohideen-b4903b53/
+2. Vishnu Vijayakumar - https://www.linkedin.com/in/vishnu-vijayakumar-0529b3162/
+3. Kedar - https://www.linkedin.com/in/kkedarvaidya/
+4. Kshitij Agrawal  - https://www.linkedin.com/in/kshitij-agrawal-ba3739181/
+
+
 ## Contact
 If you have any questions or feedback, feel free to reach out to us at shaik41@gmail.com.
