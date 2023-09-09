@@ -37,7 +37,7 @@ Before you begin, ensure you have the following prerequisites:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/nike-store-vr.git
+   git clone https://github.com/shaik41/ShopInMetaverse.git
    ```
 2. Open the project in Unreal Engine.
 
