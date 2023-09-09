@@ -1,6 +1,8 @@
 # Nike Store VR Shopping Experience
 
-![Demo](link_to_demo_gif_or_screenshot.gif)
+Demo Link - https://www.youtube.com/watch?v=80bFCaD2Qvc&ab_channel=AtifShaik
+
+![Demo](VR_1.png)
 
 ## Overview
 
