@@ -1,0 +1,17 @@
+2022/08/23-23:17:35.572 eeec Reusing MANIFEST H:/NewUnreal/TestPro_Newj/TestProj/Saved/webcache_4147\IndexedDB\https_www.myntra.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/23-23:17:35.735 e90c Level-0 table #5: started
+2022/08/23-23:17:35.746 e90c Level-0 table #5: 1126 bytes OK
+2022/08/23-23:17:35.751 e90c Delete type=0 #3
+2022/08/23-23:17:35.752 e90c Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/08/23-23:18:19.339 e90c Level-0 table #7: started
+2022/08/23-23:18:19.343 e90c Level-0 table #7: 11802 bytes OK
+2022/08/23-23:18:19.347 e90c Delete type=0 #4
+2022/08/23-23:18:19.347 e90c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/08/23-23:18:19.347 e90c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x008\x007\x002\x004\x005\x000\x006\x000\x004\x008\x001\x00:\x00w\x00e\x00b\x00:\x00f\x00a\x009\x000\x004\x004\x00a\x003\x009\x00e\x005\x00a\x008\x00e\x00d\x001\x00a\x005\x001\x008\x008\x000' @ 108 : 1
+2022/08/23-23:18:19.347 e90c Compacting 1@1 + 1@2 files
+2022/08/23-23:18:19.354 e90c Generated table #8@1: 34 keys, 1505 bytes
+2022/08/23-23:18:19.354 e90c Compacted 1@1 + 1@2 files => 1505 bytes
+2022/08/23-23:18:19.357 e90c compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/23-23:18:19.357 e90c Delete type=2 #5
+2022/08/23-23:18:19.357 e90c Delete type=2 #7
+2022/08/23-23:18:19.357 e90c Manual compaction at level-1 from '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x008\x007\x002\x004\x005\x000\x006\x000\x004\x008\x001\x00:\x00w\x00e\x00b\x00:\x00f\x00a\x009\x000\x004\x004\x00a\x003\x009\x00e\x005\x00a\x008\x00e\x00d\x001\x00a\x005\x001\x008\x008\x000' @ 108 : 1 .. (end); will stop at (end)
